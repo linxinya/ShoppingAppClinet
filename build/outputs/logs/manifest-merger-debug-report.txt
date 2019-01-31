@@ -65,10 +65,6 @@ uses-permission#android.permission.WAKE_LOCK
 ADDED from /Users/zhaolin07/Downloads/ShoppingAppClinet/AndroidManifest.xml:31:5-68
 	android:name
 		ADDED from /Users/zhaolin07/Downloads/ShoppingAppClinet/AndroidManifest.xml:31:22-65
-uses-permission#android.permission.WRITE_SETTINGS
-ADDED from /Users/zhaolin07/Downloads/ShoppingAppClinet/AndroidManifest.xml:32:5-73
-	android:name
-		ADDED from /Users/zhaolin07/Downloads/ShoppingAppClinet/AndroidManifest.xml:32:22-70
 application
 ADDED from /Users/zhaolin07/Downloads/ShoppingAppClinet/AndroidManifest.xml:34:5-100:19
 	android:label
@@ -103,14 +99,6 @@ ADDED from /Users/zhaolin07/Downloads/ShoppingAppClinet/AndroidManifest.xml:47:9
 		ADDED from /Users/zhaolin07/Downloads/ShoppingAppClinet/AndroidManifest.xml:50:13-52
 	android:name
 		ADDED from /Users/zhaolin07/Downloads/ShoppingAppClinet/AndroidManifest.xml:48:13-66
-activity#com.cm.shopping.activity.BusinessListActivity
-ADDED from /Users/zhaolin07/Downloads/ShoppingAppClinet/AndroidManifest.xml:52:9-56:20
-	android:screenOrientation
-		ADDED from /Users/zhaolin07/Downloads/ShoppingAppClinet/AndroidManifest.xml:54:13-49
-	android:windowSoftInputMode
-		ADDED from /Users/zhaolin07/Downloads/ShoppingAppClinet/AndroidManifest.xml:55:13-52
-	android:name
-		ADDED from /Users/zhaolin07/Downloads/ShoppingAppClinet/AndroidManifest.xml:53:13-73
 activity#com.cm.shopping.activity.CommentActivity
 ADDED from /Users/zhaolin07/Downloads/ShoppingAppClinet/AndroidManifest.xml:58:9-62:20
 	android:screenOrientation

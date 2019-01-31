@@ -1,0 +1,4 @@
+#Thu Jan 31 16:38:00 CST 2019
+base.0=/Users/zhaolin07/Downloads/ShoppingAppClinet/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
